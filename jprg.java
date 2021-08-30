@@ -2,7 +2,7 @@ class Javaprog {
 
 public static void main(String[] args}{
 
-system.out.println("Hello worls!");
+system.out.println("Hello world Reinvent!");
 
 }
 
